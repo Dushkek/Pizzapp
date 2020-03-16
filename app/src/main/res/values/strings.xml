@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="password">Enter a password</string>
+    <string name="telephone_number">Enter a telephone number</string>
+    <string name="register">Register</string>
+    <string name="enter_an_address">Enter an address</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_a_nickname">Enter a nickname</string>
+    <string name="nickname_or_telephone_number">Nickname or Telephone number</string>
+    <string name="password1">Password</string>
+</resources>
