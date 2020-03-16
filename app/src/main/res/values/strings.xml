@@ -9,4 +9,6 @@
     <string name="enter_a_nickname">Enter a nickname</string>
     <string name="nickname_or_telephone_number">Nickname or Telephone number</string>
     <string name="password1">Password</string>
+    <string name="pizza_app">Pizza App</string>
+    <string name="pizza_image">Pizza Image</string>
 </resources>
