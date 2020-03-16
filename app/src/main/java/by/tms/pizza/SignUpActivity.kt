@@ -17,7 +17,7 @@ class SignUpActivity : AppCompatActivity() {
                 UserList.instance.listOfUsers.add(
                     User(
                         nickname.text.toString(),
-                        telephoneNumber.text.toString().toInt(),
+                        telephoneNumber.text.toString(),
                         password.text.toString(),
                         address.text.toString()
                     )

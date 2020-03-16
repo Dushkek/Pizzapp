@@ -47,14 +47,13 @@ class SignInActivity : AppCompatActivity(), View.OnClickListener {
             signInButton.id -> {
                 val list = UserList.instance.listOfUsers
                 for (i in 0 until list.size) {
-                    if ((list[i].number.equals(telephoneNumberOrNickname.text.toString().toInt()) || list[i].nickname.equals(
-                            nickname.text.toString()
-                        )) && list[i].password.equals(password.text.toString())
+                    if ((list[i].nickname == telephoneNumberOrNickname.text.toString() || list[i].number == telephoneNumberOrNickname.text.toString()) && list[i].password == password.text.toString()
                     ) {
                         Toast.makeText(this, "Welcome, ${list[i].nickname}!", Toast.LENGTH_SHORT)
                             .show()
                         startActivity(Intent(this, MainActivity::class.java))
-                    } else
+                    }
+                    else
                         Toast.makeText(this, "User not found", Toast.LENGTH_SHORT).show()
                 }
 
