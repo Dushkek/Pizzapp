@@ -11,4 +11,10 @@
     <string name="password1">Password</string>
     <string name="pizza_app">Pizza App</string>
     <string name="pizza_image">Pizza Image</string>
+    <string name="delivery_adress">Delivery Adress:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="total">Total :</string>
+    <string name="back">Back</string>
+    <string name="clear">Clear</string>
 </resources>
