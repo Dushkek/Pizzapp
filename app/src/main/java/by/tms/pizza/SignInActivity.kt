@@ -21,7 +21,6 @@ class SignInActivity : AppCompatActivity(), View.OnClickListener {
 
         signInButton.setOnClickListener(this)
         signUpButton.setOnClickListener(this)
-
 //        telephoneNumberOrNickname.addTextChangedListener(object : TextWatcher {
 //            override fun afterTextChanged(s: Editable?) {
 //                if (s.toString().isEmpty()) {
