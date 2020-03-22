@@ -11,4 +11,11 @@
     <string name="password1">Password</string>
     <string name="pizza_app">Pizza App</string>
     <string name="pizza_image">Pizza Image</string>
+    <string name="bavarian_ingredients">Баварские колбаски и тд.</string>
+    <string name="curry_ingredients">Карри и тд.</string>
+    <string name="pepperoni_ingredients">Пепперони и тд.</string>
+    <string name="pineapple_ingredients">Ананасик и тд.</string>
+    <string name="tomato_ingredients">Томатная и тд.</string>
+    <string name="ham_ingredients">Ветчинка и тд.</string>
+
 </resources>
