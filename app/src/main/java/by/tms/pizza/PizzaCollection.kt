@@ -14,7 +14,7 @@ class PizzaCollection() {
             Pizza("bavarian", 12.0, R.string.bavarian_ingredients, R.drawable.bavarian)
         )
         pizzaCollection.add(
-            Pizza("curry", 12.0, R.string.curry_ingredients, R.drawable.curry)
+            Pizza("curry", 12.0, R.string.curry_ingredients, R.drawable.ham)
         )
         pizzaCollection.add(
             Pizza("Ham", 12.0, R.string.ham_ingredients, R.drawable.ham)
